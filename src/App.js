@@ -248,7 +248,7 @@ function App() {
         <img src="bullsandcows.png" alt="bull_and_cows" width="70%" />
         <HowToPlay />
         <Typography color="textSecondary" gutterBottom>
-          An old code-breaking challegne - it is proven that any number could be
+          An old code-breaking challenge - it is proven that any number could be
           solved within seven turns. Can you beat it in seven turns?
         </Typography>
       </Box>

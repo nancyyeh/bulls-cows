@@ -1,14 +1,53 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import App from "./App";
+import * as serviceWorker from "./serviceWorker";
+import CssBaseline from "@material-ui/core/CssBaseline";
+import {
+  createMuiTheme,
+  ThemeProvider,
+  responsiveFontSizes,
+} from "@material-ui/core/styles";
+
+let theme = createMuiTheme({
+  typography: {
+    h1: {
+      fontFamily: "Luckiest Guy",
+      fontSize: 75,
+    },
+    h2: {
+      fontFamily: "Luckiest Guy",
+      fontSize: 57,
+    },
+    h3: {
+      fontFamily: "Luckiest Guy",
+      fontSize: 37,
+    },
+    h4: {
+      fontFamily: "Luckiest Guy",
+      fontSize: 27,
+    },
+    h5: {
+      fontFamily: "Luckiest Guy",
+      fontSize: 19,
+    },
+    h6: {
+      fontFamily: "Luckiest Guy",
+      fontSize: 26,
+    },
+  },
+});
+theme = responsiveFontSizes(theme);
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <App />
+    </ThemeProvider>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
 
 // If you want your app to work offline and load faster, you can change

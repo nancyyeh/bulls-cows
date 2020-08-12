@@ -36,7 +36,9 @@ function HowToPlay() {
         size="small"
         onClick={handleClick}
         startIcon={<InfoIcon />}
-      />
+      >
+        How To Play
+      </Button>
       <Popover
         id={id}
         open={open}
@@ -68,8 +70,8 @@ function HowToPlay() {
               </li>{" "}
               <li>
                 If you guess the{" "}
-                <strong>correct number but in the wrong position</strong>, the
-                computer will provide you with the clue "B".
+                <strong>correct number(s) but in the wrong position</strong>,
+                the computer will provide you with the clue "B".
               </li>
             </ul>
             Example:

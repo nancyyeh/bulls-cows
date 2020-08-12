@@ -4,10 +4,15 @@ Bulls & Cows (aka 1A2B) is a mini coding breaking challenge game. It's predate a
 
 # 💡Features
 
-- How To Play instruction button (popover)
 - Guess field and history section
-- New Game / Restart button
+- Attempt counter and timer
 - Explosive Confetti when user guess the number correctly. (Use the package - https://www.npmjs.com/package/react-dom-confetti)
+  ![](public/Play.gif)
+- How To Play instruction button (popover)
+- Best score record and delete best score button
+- New Game / Restart button
+  ![](public/Replay.gif)
+- Input limitation - numbers only, must be 4 numbers long, cannot duplicate
 
 # 🖥️ Tech
 

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bulls-cows/static/css/main.c85b6bc1.chunk.css",
+    "main.css": "/bulls-cows/static/css/main.b18393ff.chunk.css",
     "main.js": "/bulls-cows/static/js/main.b4694ae3.chunk.js",
     "main.js.map": "/bulls-cows/static/js/main.b4694ae3.chunk.js.map",
     "runtime-main.js": "/bulls-cows/static/js/runtime-main.0446dd24.js",
@@ -8,15 +8,15 @@
     "static/js/2.15dd5e11.chunk.js": "/bulls-cows/static/js/2.15dd5e11.chunk.js",
     "static/js/2.15dd5e11.chunk.js.map": "/bulls-cows/static/js/2.15dd5e11.chunk.js.map",
     "index.html": "/bulls-cows/index.html",
-    "precache-manifest.f7ae1654fca26db066f853741c259914.js": "/bulls-cows/precache-manifest.f7ae1654fca26db066f853741c259914.js",
+    "precache-manifest.65f656c86489f5c62b2148e14fb0ea86.js": "/bulls-cows/precache-manifest.65f656c86489f5c62b2148e14fb0ea86.js",
     "service-worker.js": "/bulls-cows/service-worker.js",
-    "static/css/main.c85b6bc1.chunk.css.map": "/bulls-cows/static/css/main.c85b6bc1.chunk.css.map",
+    "static/css/main.b18393ff.chunk.css.map": "/bulls-cows/static/css/main.b18393ff.chunk.css.map",
     "static/js/2.15dd5e11.chunk.js.LICENSE.txt": "/bulls-cows/static/js/2.15dd5e11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0446dd24.js",
     "static/js/2.15dd5e11.chunk.js",
-    "static/css/main.c85b6bc1.chunk.css",
+    "static/css/main.b18393ff.chunk.css",
     "static/js/main.b4694ae3.chunk.js"
   ]
 }

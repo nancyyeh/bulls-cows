@@ -14,7 +14,7 @@ let theme = createMuiTheme({
   typography: {
     h1: {
       fontFamily: [
-        "Luckiests Guy",
+        "Luckiest Guy",
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',
@@ -30,7 +30,7 @@ let theme = createMuiTheme({
     },
     h2: {
       fontFamily: [
-        "Luckiests Guy",
+        "Luckiest Guy",
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',
@@ -46,7 +46,7 @@ let theme = createMuiTheme({
     },
     h3: {
       fontFamily: [
-        "Luckiests Guy",
+        "Luckiest Guy",
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',
@@ -62,7 +62,7 @@ let theme = createMuiTheme({
     },
     h4: {
       fontFamily: [
-        "Luckiests Guy",
+        "Luckiest Guy",
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',
@@ -78,7 +78,7 @@ let theme = createMuiTheme({
     },
     h5: {
       fontFamily: [
-        "Luckiests Guy",
+        "Luckiest Guy",
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',
@@ -94,7 +94,7 @@ let theme = createMuiTheme({
     },
     h6: {
       fontFamily: [
-        "Luckiests Guy",
+        "Luckiest Guy",
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',

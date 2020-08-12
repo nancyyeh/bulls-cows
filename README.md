@@ -21,6 +21,12 @@ Bulls & Cows (aka 1A2B) is a mini coding breaking challenge game. It's predate a
 - HTML
 - Material-UI
 
+# 🛠️ Future Improvements
+
+- Allow enter button for submit
+- Better mobile optimzation
+- Cheats & clues
+
 # 🚀 License
 
 MIT license

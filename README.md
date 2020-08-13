@@ -1,6 +1,7 @@
 # 🎯Bulls & C🐮ws
 
 Bulls & Cows (aka 1A2B) is a mini code breaking challenge game. It's predate a similar kind board game, mastermind. Read more about it here: https://en.wikipedia.org/wiki/Bulls_and_Cows
+
 Play here: https://nancyyeh.github.io/bulls-cows/
 
 # 💡Features
